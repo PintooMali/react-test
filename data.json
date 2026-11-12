@@ -7,7 +7,7 @@
             "Fantasy"
         ],
         "rating": 4.8,
-        "cover": "https://raw.githubusercontent.com/PintooMali/pintoo-isekai/main/covers/rezero.jpg",
+        "cover": "https://raw.githubusercontent.com/PintooMali/react-test/main/covers/rezero.jpg",
         "description": "A boy is transported to a fantasy world and discovers he can return from death."
     },
     {
@@ -18,7 +18,7 @@
             "Romance"
         ],
         "rating": 4.2,
-        "cover": "https://raw.githubusercontent.com/PintooMali/pintoo-isekai/main/covers/sao.jpg",
+        "cover": "https://raw.githubusercontent.com/PintooMali/react-test/main/covers/sao.jpg",
         "description": "Players are trapped in a VR game where death is real."
     }
 ]
