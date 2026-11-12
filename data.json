@@ -1,15 +1,18 @@
 [
-    {
-        "title": "Re:Zero",
-        "genres": [
-            "Isekai",
-            "Psychological",
-            "Fantasy"
-        ],
-        "rating": 4.8,
-        "cover": "https://raw.githubusercontent.com/PintooMali/react-test/main/covers/rezero.jpg",
-        "description": "A boy is transported to a fantasy world and discovers he can return from death."
-    },
+  {
+    "title": "Re:Zero",
+    "genres": ["Isekai", "Psychological", "Fantasy"],
+    "rating": 4.8,
+    "cover": "https://raw.githubusercontent.com/PintooMali/react-test/main/covers/rezero.jpg",
+    "description": "A boy is transported to a fantasy world and discovers he can return from death.",
+    "images": [
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/rezero/1.jpg",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/rezero/2.jpg",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/rezero/3.jpg",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/rezero/4.jpg",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/rezero/5.jpg"
+    ]
+  },
     {
         "title": "Sword Art Online",
         "genres": [
@@ -19,6 +22,13 @@
         ],
         "rating": 4.2,
         "cover": "https://raw.githubusercontent.com/PintooMali/react-test/main/covers/sao.jpg",
-        "description": "Players are trapped in a VR game where death is real."
+        "description": "Players are trapped in a VR game where death is real.",
+         "images": [
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/sao/1.jpg",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/sao/2.jpg",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/sao/3.jpg",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/sao/4.jpg",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/sao/5.jpg"
+    ]
     }
 ]
