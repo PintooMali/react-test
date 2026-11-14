@@ -1,44 +1,93 @@
 [
   {
+    "title": "That Time I Got Reincarnated as a Slime",
+    "genres": [
+      "Isekai",
+      "Fantasy",
+      "Action"
+    ],
+    "rating": 4.7,
+    "status": "S4 Completed",
+    "watched": 96,
+    "total": "96",
+    "featured": true,
+    "cover": "https://raw.githubusercontent.com/PintooMali/react-test/main/covers/slime.jpg",
+    "description": "An ordinary office worker dies and is reborn in a fantasy world as a powerful slime, building a nation where all races can coexist.",
+    "myReview": "Super fun world-building and nation progression. Watching Rimuru go from a harmless slime to a Demon Lord never gets old.",
+    "images": [
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/slime/1.jpg",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/slime/2.jpg",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/slime/3.jpg",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/slime/4.jpg",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/slime/5.png",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/slime/6.png",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/slime/7.jpg",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/slime/8.png",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/slime/9.jpg",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/slime/10.png",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/slime/11.jpg",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/slime/12.png",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/slime/13.png",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/slime/14.png",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/slime/15.png",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/slime/16.png",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/slime/17.png",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/slime/18.png",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/slime/19.png"
+    ],
+    "quotes": [
+      "I'm not a bad slime, slurp!",
+      "If someone threatens my friends, I won't hold back—no matter who they are."
+    ]
+  },
+  {
     "title": "Re:Zero",
-    "genres": ["Isekai", "Psychological", "Fantasy"],
+    "genres": [
+      "Isekai",
+      "Psychological",
+      "Fantasy"
+    ],
     "rating": 4.8,
     "status": "Not Watched",
-    "watched": 50,
-    "total": 50,
-    "featured": true,
+    "watched": 0,
+    "total": 85,
+    "featured": false,
     "cover": "https://raw.githubusercontent.com/PintooMali/react-test/main/covers/rezero.jpg",
     "description": "A boy is transported to a fantasy world and discovers he can return from death.",
     "myReview": "Absolutely wrecked me emotionally. Subaru's suffering hits different every arc.",
     "images": [
-            "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/rezero/1.jpg",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/rezero/1.jpg",
       "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/rezero/2.jpg",
       "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/rezero/3.jpg"
     ],
-      "quotes": [
-    "I don't know what's right anymore, but I do know I want to protect you.",
-    "I'm not gonna run away. I never go back on my word."
-  ]
+    "quotes": [
+      "I don't know what's right anymore, but I do know I want to protect you.",
+      "I'm not gonna run away. I never go back on my word."
+    ]
   },
   {
     "title": "Sword Art Online",
-    "genres": ["Isekai", "Action", "Romance"],
+    "genres": [
+      "Isekai",
+      "Action",
+      "Romance"
+    ],
     "rating": 4.2,
     "status": "Not Watched",
-    "watched": 12,
-    "total": 25,
+    "watched": 0,
+    "total": 96,
     "featured": false,
     "cover": "https://raw.githubusercontent.com/PintooMali/react-test/main/covers/sao.jpg",
     "description": "Players are trapped in a VR game where death is real.",
     "myReview": "First arc is a masterpiece. Gets messy later but still fun.",
     "images": [
-            "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/sao/1.jpg",
+      "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/sao/1.jpg",
       "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/sao/2.jpg",
       "https://raw.githubusercontent.com/PintooMali/react-test/main/gallery/sao/3.jpg"
     ],
-      "quotes": [
-    "I don't know what's right anymore, but I do know I want to protect you.",
-    "I'm not gonna run away. I never go back on my word."
-  ]
+    "quotes": [
+      "I don't know what's right anymore, but I do know I want to protect you.",
+      "I'm not gonna run away. I never go back on my word."
+    ]
   }
 ]
